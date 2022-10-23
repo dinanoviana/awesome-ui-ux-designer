@@ -1,3 +1,15 @@
+<!-- START doctoc generated TOC please keep comment here to allow auto update -->
+<!-- DON'T EDIT THIS SECTION, INSTEAD RE-RUN doctoc TO UPDATE -->
+**Table of Contents**  *generated with [DocToc](https://github.com/thlorenz/doctoc)*
+
+- [Awesome UI/UX Designer](#awesome-uiux-designer)
+- [Roles](#roles)
+- [Learning](#learning)
+- [Learn by Game](#learn-by-game)
+- [Resources](#resources)
+
+<!-- END doctoc generated TOC please keep comment here to allow auto update -->
+
 # Awesome UI/UX Designer
 
 # Roles
