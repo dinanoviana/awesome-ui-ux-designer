@@ -10,7 +10,12 @@
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
-# Awesome UI/UX Designer
+<div align="center">
+<h1>Awesome UI/UX Designer</h1>
+
+![](https://badgen.net/github/last-commit/dinanoviana/awesome-ui-ux-designer)
+
+</div>
 
 # Learning
 - [dwinawan.com](dwinawan.com) - Learning guide to become a User Interface Designer from the ground up.
