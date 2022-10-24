@@ -53,6 +53,6 @@ Design System, Arts, Illustrations, Icons, Images - Free for Personal & Commerci
 - **UX Writer** - Create intuitive UX, writing labels for buttons, adjusting the tone to be friendly or formal.
 - **Production Designer** - Bridging between interaction designers and engineers, make sure the first and final design match, handed off the assets (text and images, design specifications, color, font style, size, and spacing).
 - **UX Engineers** - Translate the design's intent into a functioning experience.
-- **X Program Manager** - Setting up goals & project plans, and allocating team resources.
+- **UX Program Manager** - Setting up goals & project plans, and allocating team resources.
 - **VR/AR Designer**
 - **Conversation Designer** - Designing virtual assistant and interactive response system.
