@@ -44,8 +44,7 @@ Design System, Arts, Illustrations, Icons, Images - Free for Personal & Commerci
 - [font.joy](font.joy) - Get font combination ideas.
 
 # Roles in UI/UX Field
-- **UI Designer**
-Design the interface so that the application is easy and pleasant for users to use.
+- **UI Designer** - Design the interface so that the application is easy and pleasant for users to use.
 - **UX Designer** - Responsible for making the application easy to use, simple, able to provide a positive and comfortable experience for users.
 - **Interaction Designer** - Focus on designing experience of product and how it works, how to meet user needs with business goals and what can actually be made.
 - **Visual Designer** - Design logo, illustrations & icons, decide font color & size, work on product layouts.
