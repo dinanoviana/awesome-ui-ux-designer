@@ -11,10 +11,7 @@
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
 <div align="center">
-<h1>Awesome UI/UX Designer</h1>
-
-![](https://badgen.net/github/last-commit/dinanoviana/awesome-ui-ux-designer)
-
+    <h1>Awesome UI/UX Designer</h1>
 </div>
 
 # Learning
