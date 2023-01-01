@@ -59,7 +59,6 @@ Design System, Arts, Illustrations, Icons, Images - Free for Personal & Commerci
 - **UX Program Manager** - Setting up goals & project plans, and allocating team resources.
 - **VR/AR Designer**
 - **Conversation Designer** - Designing virtual assistant and interactive response system.
-<<<<<<< HEAD
 
 # Portfolio Inspirations
 - [behance.net/dinanov](https://www.behance.net/dinanov) - My Portfolio.
@@ -74,5 +73,3 @@ Design System, Arts, Illustrations, Icons, Images - Free for Personal & Commerci
 - [tongfangsun.xyz](https://www.tongfangsun.xyz/) - Tongfang Sun.
 - [pennybanks.com](http://pennybanks.com/) - Penny Banks.
 - [yuto-takahashi.com](http://yuto-takahashi.com/) - Yuto Takahashi.
-=======
->>>>>>> cfa20df9607a8716bbf5c7c11880d4c1a398fbb6
