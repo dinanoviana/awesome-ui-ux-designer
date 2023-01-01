@@ -7,6 +7,7 @@
 - [Learn by Game](#learn-by-game)
 - [Resources](#resources)
 - [Roles in UI/UX Field](#roles-in-uiux-field)
+- [Portfolio Inspirations](#portfolio-inspirations)
 
 <!-- END doctoc generated TOC please keep comment here to allow auto update -->
 
@@ -58,3 +59,17 @@ Design System, Arts, Illustrations, Icons, Images - Free for Personal & Commerci
 - **UX Program Manager** - Setting up goals & project plans, and allocating team resources.
 - **VR/AR Designer**
 - **Conversation Designer** - Designing virtual assistant and interactive response system.
+
+# Portfolio Inspirations
+- [behance.net/dinanov](https://www.behance.net/dinanov) - My Portfolio.
+- [lisasuefischer.com](http://www.lisasuefischer.com/) - Lisa Fischer.
+- [shabnamkashani.com](https://www.shabnamkashani.com/) - Shabnam Kashani.
+- [danegalbraith.com](https://danegalbraith.com/) - Dane Galbraith.
+- [nicolaspellegrino.com](https://www.nicolaspellegrino.com/) - Nicolas Pellegrino.
+- [joshglucas.com](https://joshglucas.com/) - Joshua Lucas.
+- [kartikrao.in](http://www.kartikrao.in/) - Kartik Rao.
+- [kaiwei.design](http://kaiwei.design/#/) - Kaiwei Wang.
+- [anqiwan.com](https://www.anqiwan.com/) - Anqi Wan.
+- [tongfangsun.xyz](https://www.tongfangsun.xyz/) - Tongfang Sun.
+- [pennybanks.com](http://pennybanks.com/) - Penny Banks.
+- [yuto-takahashi.com](http://yuto-takahashi.com/) - Yuto Takahashi.
