@@ -16,35 +16,35 @@
 </div>
 
 # Learning
-- [dwinawan.com](dwinawan.com) - Learning guide to become a User Interface Designer from the ground up.
-- [medium.com/@dwinawan](medium.com/@dwinawan) - Case study and design exploration.
-- [nngroup.com](nngroup.com) - World Leaders in Research-Based User Experience to provide reliable guidance on user experience.
-- [coursera.org/learn/foundations-user-experience-design](coursera.org/learn/foundations-user-experience-design) - Online course that part of the Google UX Design Professional Certificate.
+- [dwinawan.com](https://www.dwinawan.com) - Learning guide to become a User Interface Designer from the ground up.
+- [medium.com/@dwinawan](https://medium.com/@dwinawan) - Case study and design exploration.
+- [nngroup.com](https://www.nngroup.com/) - World Leaders in Research-Based User Experience to provide reliable guidance on user experience.
+- [coursera.org/learn/foundations-user-experience-design](https://www.coursera.org/learn/foundations-user-experience-design) - Online course that part of the Google UX Design Professional Certificate.
 
 # Learn by Game
-- [cantunsee.space](cantunsee.space) - Sharpen your design sense.
-- [type.method.ac](type.method.ac) - Learn typography.
-- [pixact.ly](pixact.ly) - How well you know your pixels.
+- [cantunsee.space](https://cantunsee.space/) - Sharpen your design sense.
+- [type.method.ac](https://type.method.ac/) - Learn typography.
+- [pixact.ly](https://pixact.ly/) - How well you know your pixels.
 
 # Resources
 Design System, Arts, Illustrations, Icons, Images - Free for Personal & Commercial use.
-- [material.io](material.io) - Google’s open-source design system.
-- [material.io/resources](material.io/resources) - Material tools and design resources.
-- [storyset.com](storyset.com) - Awesome free customizable illustrations.
-- [undraw.co/illustrations](undraw.co/illustrations) - Open-source illustrations.
-- [stubborn.fun](stubborn.fun) - Design your characters using generator.
-- [blush.design/collections](blush.design/collections) - Blush illustrations collections.
-- [humaaans.com](humaaans.com) - Mix-&-match illustrations of people with a design library.
-- [freepik.com](freepik.com) - Free vectors, photos, and PSD.
-- [unsplash.com](unsplash.com) - Free images and pictures.
-- [flaticon.com](flaticon.com) - Free vector icons.
-- [fonts.google.com/icons](fonts.google.com/icons) - Google material symbols and icons.
-- [savee.it](savee.it) - Explore design from designers around the world.
-- [toools.design](toools.design) - Collection of design resources.
-- [awwwards.com](awwwards.com) - Web design trends.
-- [ui-patterns.com/patterns](ui-patterns.com/patterns) - Design patterns.
-- [fonts.google.com](fonts.google.com) - Google Fonts.
-- [font.joy](font.joy) - Get font combination ideas.
+- [material.io](https://m3.material.io/) - Google’s open-source design system.
+- [material.io/resources](https://m2.material.io/resources) - Material tools and design resources.
+- [storyset.com](https://storyset.com/) - Awesome free customizable illustrations.
+- [undraw.co/illustrations](https://undraw.co/illustrations) - Open-source illustrations.
+- [stubborn.fun](https://stubborn.fun/) - Design your characters using generator.
+- [blush.design/collections](https://blush.design/collections) - Blush illustrations collections.
+- [humaaans.com](https://humaaans.com/) - Mix-&-match illustrations of people with a design library.
+- [freepik.com](https://www.freepik.com/) - Free vectors, photos, and PSD.
+- [unsplash.com](https://unsplash.com/) - Free images and pictures.
+- [flaticon.com](https://www.flaticon.com/) - Free vector icons.
+- [fonts.google.com/icons](https://fonts.google.com/icons) - Google material symbols and icons.
+- [savee.it](https://savee.it/) - Explore design from designers around the world.
+- [toools.design](https://www.toools.design/) - Collection of design resources.
+- [awwwards.com](https://www.awwwards.com/) - Web design trends.
+- [ui-patterns.com/patterns](https://ui-patterns.com/patterns) - Design patterns.
+- [fonts.google.com](https://fonts.google.com/) - Google Fonts.
+- [fontjoy.com](https://fontjoy.com/) - Get font combination ideas.
 
 # Roles in UI/UX Field
 - **UI Designer** - Design the interface so that the application is easy and pleasant for users to use.
@@ -59,6 +59,7 @@ Design System, Arts, Illustrations, Icons, Images - Free for Personal & Commerci
 - **UX Program Manager** - Setting up goals & project plans, and allocating team resources.
 - **VR/AR Designer**
 - **Conversation Designer** - Designing virtual assistant and interactive response system.
+<<<<<<< HEAD
 
 # Portfolio Inspirations
 - [behance.net/dinanov](https://www.behance.net/dinanov) - My Portfolio.
@@ -73,3 +74,5 @@ Design System, Arts, Illustrations, Icons, Images - Free for Personal & Commerci
 - [tongfangsun.xyz](https://www.tongfangsun.xyz/) - Tongfang Sun.
 - [pennybanks.com](http://pennybanks.com/) - Penny Banks.
 - [yuto-takahashi.com](http://yuto-takahashi.com/) - Yuto Takahashi.
+=======
+>>>>>>> cfa20df9607a8716bbf5c7c11880d4c1a398fbb6
