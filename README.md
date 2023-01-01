@@ -15,7 +15,7 @@
 </div>
 
 # Learning
-- [dwinawan.com](dwinawan.com) - Learning guide to become a User Interface Designer from the ground up.
+- [https://www.dwinawan.com](dwinawan.com) - Learning guide to become a User Interface Designer from the ground up.
 - [medium.com/@dwinawan](medium.com/@dwinawan) - Case study and design exploration.
 - [nngroup.com](nngroup.com) - World Leaders in Research-Based User Experience to provide reliable guidance on user experience.
 - [coursera.org/learn/foundations-user-experience-design](coursera.org/learn/foundations-user-experience-design) - Online course that part of the Google UX Design Professional Certificate.
